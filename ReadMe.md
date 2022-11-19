@@ -41,3 +41,4 @@ Esta análise explora dados simulados para segmentação de clientes, de forma a
 
 A segmentação utilizando aprendizagem de máquina não supervisionada ajuda-nos a enteder de maneira simples diferentes grupos presentes na população apresentada, e assim guiar ações de marketing para públicos específicos, pensando em comunicação direcionada e estratégias que visam o sucesso do cliente.
 
+Os dados e o tutorial foi adquirido no [LINK](https://www.kaggle.com/code/gustavogodinho/segmenta-o-de-clientes/notebook)
